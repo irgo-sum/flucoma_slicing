@@ -4,5 +4,5 @@ https://drive.google.com/file/d/1he6qDWuoN2uJ5SAYsVmWkGexcXdwcTgJ/view?usp=drive
 SUPERCOLLIDER: 
 https://supercollider.github.io/
 
-FLUCOMA: 
+FLUCOMAS TOOLKIT FÖR SC MÅSTE INSTALLERAS FÖR ATT KUNNA KÖRA KODEN: 
 https://www.flucoma.org/download/
