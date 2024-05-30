@@ -129,19 +129,3 @@ FluidNormalize(s).fitTransform(~analyses,~normed);
 	}
 });
 )
-
-//
-
-(
-~normed.dump({
-
-	arg dict;
-	var point = Buffer.alloc(s,2);
-	var previous = nil;
-	dict.postln;
-	defer{
-
-	}
-
-});
-)
